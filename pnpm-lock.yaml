@@ -226,15 +226,6 @@ importers:
         specifier: 4.2.0
         version: 4.2.0
 
-  apps/backend/y-websocket-server-demo:
-    dependencies:
-      ws:
-        specifier: ^8.18.0
-        version: 8.18.0
-      y-websocket:
-        specifier: ^2.0.4
-        version: 2.0.4(yjs@13.6.20)
-
   apps/frontend/desktop:
     dependencies:
       '@tauri-apps/api':
